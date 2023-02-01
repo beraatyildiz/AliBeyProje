@@ -2,6 +2,20 @@ html,body{
     font-family: 'Poppins', sans-serif;
 }
 .backgroundRed{
+    padding-top: 55px;
     background-color: red;
     height: 330px;
+    color: white;
+    font-size: 14px;
+}
+.backgroundKutu{
+    margin-top: 110px;
+    width: 1195px;
+    height: 558px;
+}
+.sagResim{
+    margin-top: 110px;
+    width: 584px;
+    height: 498px;
+    float: right;
 }
